@@ -1,0 +1,21 @@
+#,aristocraticcoup,"Coup d'éclat aristocratique","De plus en plus influente, la noblesse prépare un coup d'État visant à abolir les derniers vestiges de la démocratie libérale et à instaurer une monarchie féodale. Faut-il les soutenir ou les arrêter ?"
+#,aristocraticcoup_0,Soutenez le coup d'État,"Il est temps de restaurer le droit divin des rois."
+#,aristocraticcoup_1,Arrêtez-les,"La démocratie vivra !"
+#,questionofproperty,Question de propriété,"La restauration de l'aristocratie a donné lieu à un débat sur le sort à réserver à ses anciennes propriétés, car nombre d'entre elles ont été saisies ou redistribuées par l'État au cours des deux derniers siècles."
+#,questionofproperty_0,"Rendez-leur leurs biens","La saisie de leurs terres était illégale et devrait être restituée."
+#,questionofproperty_1,Rejeter les demandes,"Il n'est pas nécessaire de rendre la terre à ces parasites."
+#,sellthetitles,Vendre les titres,Notre budget a besoin d'argent, mais augmenter les impôts ou réduire les dépenses sera impopulaire. Au lieu de cela, notre ministre des finances a proposé une autre solution : la vente de titres. Nous pourrions les vendre aux riches et à la classe moyenne. Mais les familles nobles établies y verront une réduction du prestige des titres dont elles ont hérité.
+#,sellthetitles_0,Les vendre,Le ministre a raison. Nous avons besoin de cet argent.
+#,sellthetitles_1,Refuser,Le titre est un signe de prestige que seules les familles pures et honnêtes peuvent hériter. Nous ne pouvons pas les vendre aux usuriers et aux trafiquants de drogue
+#,punitiveexpedition,Expédition punitive,Les émeutes dans les campagnes s'enveniment. Le ministre de la défense est entré dans votre chambre et vous demande d'approuver son projet d'envoyer les forces armées dans les campagnes pour mettre fin à cette rébellion une fois pour toutes.
+#,punitiveexpedition_0,Ordonner des mesures punitives,Nous devons rétablir l'ordre public dans notre pays !
+#,punitiveexpedition_1,Rejeter la demande,L'armée ne tirera pas sur nos citoyens.
+#,grandcoronation,Grand couronnement,"La politique est un jeu de gestes. Il est temps de montrer au peuple le but de votre règne. Si vous laissez l'archevêque vous couronner, vous respecterez les traditions du pouvoir divin. Si vous prenez la couronne vous-même, comme Napoléon Bonaparte, vous ferez preuve de force et de patriotisme, mais la presse étrangère pourrait y voir une déclaration d'aspirations expansionnistes."
+#,grandcoronation_0,Laisser l'archevêque vous couronner,"Par la volonté de Dieu, je suis le roi de ce pays."
+#,grandcoronation_1,Prendre la couronne soi-même,"Par la volonté du peuple, je suis l'empereur de cette nation."
+#,revolution,Révolution,"La Garde nationale a pris le contrôle de la capitale. Il est temps de calculer nos options. Faut-il soutenir ces révolutionnaires dans leur entreprise de renversement de la monarchie, en espérant établir avec eux un gouvernement de coalition, ou faut-il ordonner aux troupes loyales d'anéantir les forces révolutionnaires ?"
+#,revolution_0,Soutenir la révolution,Liberté ! Égalité ! Fraternité !
+#,revolution_1,Écraser les,Dieu ! Nation ! Autocratie !
+#,crusade,Croisade,"La Terre Sainte est tombée. Après le retrait des États-Unis du Moyen-Orient, l'État d'Israël a sombré dans l'anarchie. Cette situation a été exploitée par la résurgence de l'État islamique, qui a conquis la majeure partie de l'Irak et de la Syrie en l'espace de quelques mois. Les chrétiens de Palestine sont assassinés et l'Église nous demande d'intervenir. "
+#,crusade_0,Déclarer la guerre sainte,Nous serons les protecteurs de la patrie et nous reconquerrons Jérusalem !
+#,crusade_1,Refuser,"L'intervention serait trop coûteuse, nous devons refuser."
